@@ -99,3 +99,13 @@ h2 {
     font-size: 36px;
     color: #1F2937;
 }
+
+.footer {
+    background-color: #1F2937;
+    font-size: 18px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px
+}
